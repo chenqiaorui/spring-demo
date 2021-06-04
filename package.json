@@ -5,7 +5,7 @@
     "xgplayer": "^2.11.7"
   },
   "devDependencies": {
-    "webpack-merge": "^4.1.0"
+    "webpack-merge": "^4.1.10"
   },
   "engines": {
     "node": ">= 6.0.0",
