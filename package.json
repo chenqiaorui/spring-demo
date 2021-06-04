@@ -1,1 +1,19 @@
-
+{
+  "name": "xxle",
+  "version": "0.1.2",
+  "dependencies": {
+    "xgplayer": "^2.11.7"
+  },
+  "devDependencies": {
+    "webpack-merge": "^4.1.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
